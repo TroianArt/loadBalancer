@@ -1,5 +1,5 @@
-# loadBalancer
-load balancer NodeJS + Express + MongoDB + AngularJS
+## loadBalancer
+# load balancer NodeJS + Express + MongoDB + AngularJS
 
 1. **Technologies:** node.js (express, mongoose, express-session, https),
 AngularJS (controller, ng-repeat, $ http, $ interval), MongoDB
